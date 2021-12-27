@@ -879,7 +879,7 @@ Object.defineProperty(Monster, "afraidMode", {
             //Monster.switchMovement(_that);
             _that.mode = mobMode.ATTACK;
 
-        }, 10000);
+        }, 5000);
 
     },
     enumerable: false,
