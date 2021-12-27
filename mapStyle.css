@@ -1,6 +1,8 @@
 body {
-    background-color: black;
+    background-image: url('./pic/bkxmas.png');
+    background-size: contain;
     overflow-y: hidden;
+    height: 100%;
 }
 
 div {
@@ -158,6 +160,8 @@ div {
     color: yellow;
     font-size: 35pt;
     margin-left: auto;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 .span2 {
